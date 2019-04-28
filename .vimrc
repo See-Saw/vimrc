@@ -106,9 +106,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'vim-gitgutter'
 Plugin 'yuttie/comfortable-motion.vim'
 Plugin 'jiangmiao/auto-pairs'
-call vundle#end()            
-
-filetype plugin indent on    
+call vundle#end()             
 
 colorscheme gruvbox
 
